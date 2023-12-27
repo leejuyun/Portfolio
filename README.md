@@ -66,7 +66,7 @@
 >
 > - 개발기간 : 2023.03 - 2023.11
 > - 핵심 역할 : 데이터 수집 및 모델 구현 및 최종 발표자
-> - 개발 내용 : Virtual try on 논문을 분석하여 Colab GPU 환경에서 가상 피팅 모델을 구현하고 기존 모델의 성능을 향상시켰다.
+> - 개발 내용 : 가상피팅은 사용자가 직접 옷을 입어보지 않아도 자신의 사진에 옷의 사진을 합성하여 그 옷을 입은 자신의 모습을 확인할 수 있는 기술이다. Virtual try on 논문을 분석하여 Colab GPU 환경에서 가상 피팅 모델을 구현하고 기존 모델의 성능을 향상시켰다.
 > - Language : python3
 >
 > [프로젝트 코드](https://drive.google.com/drive/folders/1cJNcFncaiTj9k5FtKAOkaGhlSOjxIRZG?usp=sharing)
