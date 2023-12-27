@@ -54,9 +54,9 @@
 > 동형암호 기술을 이용한 단백질 서열 정렬 알고리즘 (개별 프로젝트)
 >
 > - 개발 기간 : 2023.11 - 2023.12
-> - 개발 내용 : 서열정렬은 바이오인포매틱스 분야에서 가계도 분석, 질병 연구, 유전자 가위 등에 사용되는 단백질 및 유전 서열 분석을 위한 필수 기술이다. 동형암호 라이브러리 Microsoft Seal을 활용하여 두 단백질 서열을 최적으로 정렬하는 Needleman-Wunsh 알고리즘과 Smith-Waterman 알고리즘을 구현한다. 
-> - Language : python3   
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/mylittlehero_backend)
+> - 개발 내용 : 서열정렬은 바이오인포매틱스 분야에서 가계도 분석, 질병 연구, 유전자 가위 등에 사용되는 단백질 및 유전 서열 분석을 위한 필수 기술이다. 동형암호 라이브러리 Microsoft Seal을 활용하여 두 단백질 서열을 최적으로 정렬하는 Needleman-Wunsh 알고리즘과 Smith-Waterman 알고리즘을 구현한다. TCP/IP 소켓 통신을 활용하여 Server와 Client가 암호문을 주고받으며 알고리즘을 수행하는 구조를 구현하였다.
+> - Language : C++   
+> [프로젝트 코드](https://drive.google.com/drive/folders/1E1yVd5-hcypijfpOgJ1PCuzSmu6juYjf?usp=sharing)
 
 <br />
 
@@ -66,10 +66,10 @@
 >
 > - 개발기간 : 2023.03 - 2023.11
 > - 핵심 역할 : 데이터 수집 및 모델 구현 및 최종 발표자
-> - 개발 내용 : Virtual try on 논문을 분석하여 가상 피팅 모델을 구현하고 기존 모델의 성능을 향상시켰다.
+> - 개발 내용 : Virtual try on 논문을 분석하여 Colab GPU 환경에서 가상 피팅 모델을 구현하고 기존 모델의 성능을 향상시켰다.
 > - Language : python3
 >
-> [프로젝트 상세 설명](https://github.com/kimphysicsman/sparta_fighter)
+> [프로젝트 코드](https://drive.google.com/drive/folders/1cJNcFncaiTj9k5FtKAOkaGhlSOjxIRZG?usp=sharing)
 
 <br />
 
@@ -83,9 +83,7 @@
 > - Language : java, javascript
 >
 > [프로젝트 상세 설명](https://github.com/leejuyun/StockIT)
-> [프로젝트 코드](https://github.com/leejuyun/StockIT)
-<br />
-
+> [프로젝트 코드](https://drive.google.com/drive/folders/1NbVS7tuHlsV0Ew7ecmDFusy_1PVCznjm?usp=sharing)
 <br />
 <br />
 
