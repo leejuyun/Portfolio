@@ -24,9 +24,9 @@
 > - 개발기간 : 2021.07 ~ 2021. 09
 > - 개발내용 : A* 알고리즘을 이용하여 서울 지하철 1-9호선의 모든 역에 대하여 출발역에서부터 도착역까지의 환승을 고려한 최단 경로를 탐색한다. 
 >
->> - Language : C++  
->> 
->> [프로젝트 코드]([https://github.com/kimphysicsman/MyLittelTrip_backend](https://drive.google.com/drive/folders/1wSx2-F7WQrr-cg903QfI4Kv6O3-2MSP2?usp=sharing)  
+> - Language : C++  
+> 
+> [프로젝트 코드](https://drive.google.com/drive/folders/1wSx2-F7WQrr-cg903QfI4Kv6O3-2MSP2?usp=sharing)  
 
 <br />
 
