@@ -83,6 +83,7 @@
 > - Language : java, javascript
 >
 > [프로젝트 상세 설명](https://github.com/leejuyun/StockIT)
+> 
 > [프로젝트 코드](https://drive.google.com/drive/folders/1NbVS7tuHlsV0Ew7ecmDFusy_1PVCznjm?usp=sharing)
 <br />
 <br />
