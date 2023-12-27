@@ -32,6 +32,7 @@
 > - 개발 기간 : 2023.06 - 2023.09
 > - 개발 내용 : 동형암호는 암호화된 상태에서 연산이 가능한 암호이다. Microsoft Seal 라이브러리를 활용하여 동형암호 기술을 적용한 스프레드시트 프로그램을 구현한다. 숫자, 문자열, 시간 등 다양한 타입의 데이터를 저장하고 각종 작업을 수행할 수 있다.   
 > - Language : C++
+>   
 > [프로젝트 코드](https://drive.google.com/drive/folders/12DeDrU1f5FNG1T97G4Nhob5tlnL9sQHX?usp=sharing)
 
 <br />
