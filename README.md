@@ -98,8 +98,6 @@
 <br />
 
 ## 6. StockIT
-<p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/2b10a01d-8ca5-4b47-bec7-8a061443ae44"> </p>
-
 
 > 주식 정보 검색 및 확인 사이트 
 >
@@ -109,6 +107,7 @@
 > - 핵심 역할 : 크롤링, 주식 차트 구현 등 각종 백엔드 작업 
 > - Language : java, javascript
 >
+> <p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/2b10a01d-8ca5-4b47-bec7-8a061443ae44"> </p>
 > [프로젝트 상세 설명](https://github.com/leejuyun/StockIT)
 > 
 > [프로젝트 코드](https://drive.google.com/drive/folders/1NbVS7tuHlsV0Ew7ecmDFusy_1PVCznjm?usp=sharing)
