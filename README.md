@@ -53,7 +53,8 @@
 > - 개발 인원 : 1인
 > - 개발 내용 : 동형암호는 암호화된 상태에서의 연산이 가능한 기술이다. Microsoft Seal 라이브러리를 활용하여 동형암호를 적용한 스프레드시트 프로그램을 구현한다. 숫자, 문자열, 시간 등 다양한 타입의 데이터를 저장하고 각종 작업을 수행할 수 있다.   
 > - Language : C++
->   
+> <p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/369cbdbe-a748-425e-802b-8d1d5b6a45a7"> </p>
+>
 > [프로젝트 코드](https://drive.google.com/drive/folders/12DeDrU1f5FNG1T97G4Nhob5tlnL9sQHX?usp=sharing)
 
 <br />
