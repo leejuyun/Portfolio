@@ -78,7 +78,9 @@
 > - 개발 기간 : 2023.09 - 2023.12
 > - 개발 인원 : 2인
 > - 개발 내용 : 서열 정렬은 바이오인포매틱스 분야에서 가계도 분석, 질병 연구, 유전자 가위 등에 사용되는 단백질 및 유전 서열 분석을 위한 기술이다. 동형암호 라이브러리 Microsoft Seal을 활용하여 두 단백질 서열을 최적으로 정렬하는 Needleman-Wunsh 알고리즘과 Smith-Waterman 알고리즘을 구현한다. TCP/IP 소켓 통신을 활용하여 Server와 Client가 암호문을 주고받으며 알고리즘을 수행하는 구조를 구현하였다.
-> - Language : C++   
+> - Language : C++
+> <p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/3ac3f2a0-023e-4e47-95f3-eb5a1064b54e"> </p>
+>
 > [프로젝트 코드](https://drive.google.com/drive/folders/1E1yVd5-hcypijfpOgJ1PCuzSmu6juYjf?usp=sharing)
 
 <br />
