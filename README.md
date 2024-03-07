@@ -98,6 +98,8 @@
 <br />
 
 ## 6. StockIT
+<p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/2b10a01d-8ca5-4b47-bec7-8a061443ae44"> </p>
+
 
 > 주식 정보 검색 및 확인 사이트 
 >
