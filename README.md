@@ -67,7 +67,9 @@
 > - 개발 인원 : 1인
 > - 개발 내용 : 동형암호는 암호화된 상태에서의 연산이 가능한 기술이다. Microsoft Seal 라이브러리를 활용하여 동형암호를 적용한 Dijkstra 알고리즘과 floyd-warshall 알고리즘을 구현하고 성능을 비교하여 경로탐색 알고리즘 수행 과정에서 발생할 수 있는 보안 문제에 대한 해결책을 제시한다. 
 > - Language : C++
->   
+> <p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/4f501e52-b3a9-439e-b1b5-a6f70aafe8e6"> </p>
+>
+> <p align="center">   <img src="https://github.com/leejuyun/Portfolio/assets/93906882/8b763131-1f6e-4598-aaa6-c0c28d493504"> </p>
 > [프로젝트 코드](https://drive.google.com/drive/folders/1LlhY-uaefDIylJn4FbLS7CB1hGXFtIaP?usp=sharing)
 
 <br />
