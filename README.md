@@ -1,6 +1,6 @@
-# 이주윤 2024 PORTFOLIO
-
-> 이주윤(Juyun Lee) - 2024 포트폴리오
+# 이주윤 2025 PORTFOLIO
+![Image](https://github.com/user-attachments/assets/e2172373-cbbc-4cdf-9cab-07857103f911)
+> 이주윤(Juyun Lee) - 2025 포트폴리오
 
 <br />
 
@@ -29,12 +29,13 @@
 
 ## 프로그래밍 스킬
 
-> C/C++, Python, mySql 
+> Git, C/C++, JavaScript, TypeScript, React, Mobx 
 <br />
 
+# 
 
-# 📝Projects
-지금까지 진행했던 프로젝트들 입니다.
+# 📝학부 Projects
+ 대학교 졸업 전 진행했던 프로젝트들 입니다.
 
 ## 1. Subway Route Finder using A* Algorithm
 
