@@ -71,7 +71,7 @@
 > - 개발 내용 : 규칙 설정 메뉴 컴포넌트 구현, 규칙 목록 툴페인 컴포넌트 구현, 규칙 저장 리스트 및 맵 구조 설계 및 구현, 규칙 범위 계산 로직 구현, 규칙 몸체 컴포넌트 구현, 데이터 DB 처리, 문서 Import 및 export 처리, 오피스 간 기능 호환 처리
 > - 시연 영상1 : https://github.com/user-attachments/assets/70b793fc-1735-45a7-872d-f185419be154
 > - 시연 영상2 : https://github.com/user-attachments/assets/90692cea-b365-45a1-9711-8c6002ab8a8a
-> - 시연 영상3 : 
+> - 시연 영상3 : https://github.com/user-attachments/assets/8c645c33-ee4c-48ee-a94a-a71881cc02f0
 > - 시연 영상4 : https://github.com/user-attachments/assets/2ea002e7-8fa8-4783-877b-3eca0c386252
 
 # 학부 Projects
