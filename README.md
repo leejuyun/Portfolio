@@ -46,8 +46,8 @@
 > - 역할 : 기능 설계 및 구현 및 유지보수
 > - 기능 소개 : 셀에서 사용자가 선택한 범위 내 존재하는 데이터의 통계 값을 계산하여 보여줍니다.
 > - 개발 내용 : 상태 표시줄 컴포넌트 구현, 상태 표시줄 콘텍스트 메뉴 컴포넌트 구현, 범위 내 데이터 변경 시 상태 표시줄 컴포넌트 리 랜더링 및 통계 값 재 계산
-> - 시연 영상 : https://github.com/user-attachments/assets/cb311833-51c8-413f-915f-6685662742a4
-
+> - 시연 영상1 : https://github.com/user-attachments/assets/cb311833-51c8-413f-915f-6685662742a4
+> - 시연 영상2 : https://github.com/user-attachments/assets/bacd55d1-8a23-4ed1-a629-dc2ffa39aaa3
 ## 2. 셀 데이터 자동 채우기 기능 개발
 > 자동 채우기
 > TypeScript - React - Mobx
