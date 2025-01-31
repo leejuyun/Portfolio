@@ -48,6 +48,7 @@
 > - 개발 내용 : 상태 표시줄 컴포넌트 구현, 상태 표시줄 콘텍스트 메뉴 컴포넌트 구현, 범위 내 데이터 변경 시 상태 표시줄 컴포넌트 리 랜더링 및 통계 값 재 계산
 > - 시연 영상1 : https://github.com/user-attachments/assets/cb311833-51c8-413f-915f-6685662742a4
 > - 시연 영상2 : https://github.com/user-attachments/assets/bacd55d1-8a23-4ed1-a629-dc2ffa39aaa3
+
 ## 2. 셀 데이터 자동 채우기 기능 개발
 > 자동 채우기
 > TypeScript - React - Mobx
@@ -68,7 +69,8 @@
 > - 역할 : 기능 설계 및 구현 및 유지보수
 > - 기능 소개 : 특정 범위에 유효성 규칙을 설정합니다. 규칙이 설정된 셀에는 규칙 내의 데이터만 저장할 수 있습니다. 규칙을 위반한 데이터가 저장된 셀에 경고를 표시합니다.
 > - 개발 내용 : 규칙 설정 메뉴 컴포넌트 구현, 규칙 목록 툴페인 컴포넌트 구현, 규칙 저장 리스트 및 맵 구조 설계 및 구현, 규칙 범위 계산 로직 구현, 규칙 몸체 컴포넌트 구현, 데이터 DB 처리, 문서 Import 및 export 처리, 오피스 간 기능 호환 처리
-> - 시연 영상 : https://github.com/user-attachments/assets/70b793fc-1735-45a7-872d-f185419be154
+> - 시연 영상1 : https://github.com/user-attachments/assets/70b793fc-1735-45a7-872d-f185419be154
+> - 시연 영상2 : https://github.com/user-attachments/assets/2ea002e7-8fa8-4783-877b-3eca0c386252
 
 # 학부 Projects
  대학교 졸업 전 진행했던 프로젝트들 입니다.
